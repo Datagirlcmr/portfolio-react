@@ -1,9 +1,10 @@
 import React from "react";
 import TypeIt from "typeit-react";
+import datagirl from '../images/datagirl.jpg';
 
 const Home = () => {
   return (
-    <div className="home" id="home">
+    <div className="home" id="home" style={{ backgroundImage: `url(${datagirl})` }}>
       <div className="nav">
         <a href="#home">HOME</a>
         <a href="#about">ABOUT</a>
@@ -14,8 +15,8 @@ const Home = () => {
       <div className="intro">
         <div className="cont">
           <div className="description">
-                  Hello👋, I'm <strong>Tresor Bireke</strong>.<br/>
-                  I'm a Full Stack Web Developer.
+                  Hello👋, I'm <strong>Selma Ndi</strong>.<br/>
+                  I'm a Full Stack Web Developer <br/> I empower and Mentor Girls with Digital Skills.
           </div>
         </div>
         <div className="action">
