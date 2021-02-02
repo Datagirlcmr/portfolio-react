@@ -12,7 +12,7 @@ const Contact = () => {
       <Fade bottom>
       <div className="contact">
         <a
-          href="mailto:tresor.moise2001@gmail.com"
+          href="mailto:datagirlcmr@gmail.com"
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -20,7 +20,7 @@ const Contact = () => {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/tresor-bireke/"
+          href="https://www.linkedin.com/in/selmandi/"
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -28,7 +28,7 @@ const Contact = () => {
         </a>
 
         <a
-          href="https://twitter.com/TBireke"
+          href="https://twitter.com/SelmaNdi"
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -36,7 +36,7 @@ const Contact = () => {
         </a>
 
         <a
-          href="https://github.com/Tresor11"
+          href="https://github.com/Datagirlcmr"
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -44,16 +44,16 @@ const Contact = () => {
         </a>
 
         <a
-          href="https://medium.com/@tresor.moise2001"
+          href="https://www.instagram.com/selma_ndi"
           rel="noopener noreferrer"
           target="_blank"
         >
-          <i class="fa fa-medium    "></i>
+          <i class="fa fa-instagram    "></i>
         </a>
       </div>
       </Fade>
       <div className="footer">
-        <p>Made with 💖 by Tresor bireke © 2020</p>
+        <p>Made with 💖 by Selma Ndi © 2020</p>
       </div>
     </div>
   );
