@@ -12,29 +12,29 @@ const Article = () => {
       <Fade bottom>
       <div className="articles">
         <a
-          href="https://hackernoon.com/creating-image-uploader-in-rails-6-using-cloudinary-and-carrierwave-jp173u1w"
+          href="https://hackernoon.com/understanding-boolean-methods-in-ruby-with-examples-363n36nu"
           rel="noopener noreferrer"
           target="_blank"
           className="article"
         >
-          Creating Image Uploader in Rails 6 Using Cloudinary and Carrierwave
+          Understanding Boolean Methods in Ruby With Examples
         </a>
         <a
-          href="https://hackernoon.com/an-introduction-to-backtracking-in-ruby-fb5z32so"
+          href="https://hackernoon.com/the-amazing-react-router-xf133uek"
           rel="noopener noreferrer"
           target="_blank"
           className="article"
         >
-          An Introduction to Backtracking in Ruby
+          The Amazing React Router
         </a>
 
         <a
-          href="https://medium.com/@tresor.moise2001/the-superpower-of-the-order-css-property-and-the-cool-things-you-can-do-with-it-using-flex-and-36a86c1a80e8"
+          href="https://hackernoon.com/one-month-at-microverse-je5d37k1"
           rel="noopener noreferrer"
           target="_blank"
           className="article"
         >
-          The superpower of the order CSS property
+          My One Month Experience as a Developer
         </a>
       </div>
       </Fade>

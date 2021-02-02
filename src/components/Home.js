@@ -1,5 +1,5 @@
 import React from "react";
-import TypeIt from "typeit-react";
+// import TypeIt from "typeit-react";
 import datagirl from '../images/datagirl.jpg';
 
 const Home = () => {

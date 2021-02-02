@@ -1,7 +1,6 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
-import resume from "../images/Resume.pdf";
 
 const About = () => {
   return (
@@ -20,12 +19,13 @@ const About = () => {
           </div>
           <Slide left>
             <p>
-              I'm Tresor, a Freelance Full Stack Web Developer based in Rwanda
-              who loves to build fast and powerful Back-End services and Web apps
-              with intuitive UI. Feel free to{" "}
+            I am an Award-winning full-stack web developer (& M.B.A.) 
+            with an accountant’s eye, an administrator’s voice, and a developer’s mind. 
+            A get-it-done and get-it-done-well kind of woman. I am even more passionate in training and mentoring
+            girls in/into tech. Feel free to{" "}
               <a href="#contacts">connect with me</a>.
               <br />
-              <a href={resume} rel="noopener noreferrer" target="_blank">
+              <a href="https://docs.google.com/document/d/1T-oj7EtC7HGLT8s2nXODzL9TPZ2CxEhrtr85xL-uoDU/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
                 <button className="resume">Check out my resume</button>
               </a>
             </p>
@@ -45,6 +45,7 @@ const About = () => {
             <i class="devicon-bootstrap-plain-wordmark"></i>
             <i class="devicon-sass-original"></i>
             <i class="devicon-webpack-plain-wordmark"></i>
+            <i class="devicon-wordpress-plain-wordmark"></i>
           </div>
         </Slide>
       </div>
