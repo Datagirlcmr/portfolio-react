@@ -20,7 +20,7 @@ const Home = () => {
           </div>
         </div>
         <div className="action">
-          <a href="#about">
+          <a href="#projects">
             <button className="action-btn button">View my work</button>
           </a>
         </div>
