@@ -18,6 +18,7 @@ const About = () => {
             </Fade>
           </div>
           <Slide left>
+            <h1>Selma Ndi</h1>
             <p>
             I am an Award-winning full-stack web developer (& M.B.A.) 
             with an accountant’s eye, an administrator’s voice, and a developer’s mind. 
